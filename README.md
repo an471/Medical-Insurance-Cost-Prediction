@@ -11,6 +11,9 @@ The purpose of this project is to determine the contributing factors and predict
 • Built a model to predict Insurance Cost based on the features <br>
 • Evaluated the model using various Performance Metrics like RMSE, R2, Testing Accuracy, Training Accuracy and MAE <br>
 
+## Tableau Dashboard
+![image](tableau.png)
+
 ## DATA DESCRIPTION
 1. age: age of primary beneficiary
 2. sex: insurance contractor gender, female, male
